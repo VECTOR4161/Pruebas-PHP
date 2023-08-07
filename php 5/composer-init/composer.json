@@ -1,0 +1,14 @@
+{
+    "name": "feric/composer-init",
+    "description": "Ejemplo Composer",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "VECTOR416",
+            "email": "ferichazo@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

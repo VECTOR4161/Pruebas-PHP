@@ -1,0 +1,14 @@
+{
+    "name": "Fernando",
+    "description": "Instituto Online",
+    "courses": {
+        "advanced": ["PHP", "VUEjs"],
+        "basic": ["HTML", "JSON"]
+    },
+    "example_numeric": 1,
+    "example_text": "Texto de prueba",
+    "example_array": [],
+    "example_null": null,
+    "example_boolean": true
+
+}

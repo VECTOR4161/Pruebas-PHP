@@ -1,0 +1,24 @@
+{
+    "name": "feric/proyecto",
+    "description": "Ejemplo Composer",
+    "type": "library",
+    "require": {
+        "citco/carbon": "dev-master"
+    },
+    "require-dev": {
+        "phpunit/phpunit": "9.5.x-dev"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Feric\\Proyecto\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "VECTOR416",
+            "email": "ferichazo@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
